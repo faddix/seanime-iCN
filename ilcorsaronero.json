@@ -6,7 +6,8 @@
     "type": "anime-torrent-provider",
     "description": "🏴‍☠️ Integrates IlCorsaroNero as a torrent streaming provider for Seanime.",
     "author": "Faddix",
-    "icon": "https://raw.githubusercontent.com/faddix/seanime-iCN/src/iCN-logo.png",
+    "icon": "https://raw.githubusercontent.com/faddix/seanime-iCN/main/src/iCN-logo.png",
     "lang": "it",
-    "payloadURI": "https://raw.githubusercontent.com/faddix/seanime-iCN/iCN.ts"
+    "payloadURI": "https://raw.githubusercontent.com/faddix/seanime-iCN//main/iCN.ts",
+    "manifestURI": "https://raw.githubusercontent.com/faddix/seanime-iCN//main/ilcorsaronero.json"
 }
