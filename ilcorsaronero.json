@@ -1,0 +1,12 @@
+{
+    "id": "ilcorsaronero",
+    "name": "IlCorsaroNero",
+    "version": "1.0.0",
+    "language": "typescript",
+    "type": "anime-torrent-provider",
+    "description": "🏴‍☠️ Integrates IlCorsaroNero as a torrent streaming provider for Seanime.",
+    "author": "Faddix",
+    "icon": "https://raw.githubusercontent.com/faddix/seanime-iCN/src/iCN-logo.png",
+    "lang": "it",
+    "payloadURI": "https://raw.githubusercontent.com/faddix/seanime-iCN/iCN.ts"
+}
